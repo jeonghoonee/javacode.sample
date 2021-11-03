@@ -1,4 +1,4 @@
-package com.test.lambda;
+package javacode.sample.lambda;
 
 import java.util.*;
 import java.util.function.*;
